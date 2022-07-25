@@ -1,0 +1,28 @@
+Objective related to physical exercise - (Objetivo relacionado a exercício físico)
+
+  Increase in muscle mass - (Aumento de massa muscular)
+  Improved aerobic capacity - (Melhora da capacidade aeróbica)
+  Health / Quality of life - (Saúde / Qualidade de vida)
+  Muscle strengthening - (Fortalecimento muscular)
+  General physical conditioning - (Condicionamento físico geral)
+  Weight loss - (Perda de peso)
+
+- Behavioral history - (Histórico comportamental)
+
+  Do you exercise regularly? Which? / Weekly frequency? - (Pratica exercício físico regularmente? Quais? / Frequência semanal? X vezes)
+  Back pain? Thoracic / Low back / Cervical - (Dores na coluna? / Torácica / Lombar / Cervical)
+  Do you have joint limitation or pain? Which? - (Apresenta limitação ou dor articular? Quais?)
+  Any recent surgery? Which? Date? - (Alguma cirurgia recente? Quais? Data?)
+  Do you use any type of medication? Which? - (Usa algunm tipo de medicamento? Quais?)
+  Do you have any health problems? Which? - (Apresenta algum problema de saúde? Quais?)
+  Resting heart rate? - (Frequência cardíaca em repouso?)
+  Blood pressure? - (Pressão arterial)
+
+Par Q
+  Have a heart problem - (Possui problema cardíaco)?
+  Have chest pain caused by exercise - (Possui dor no peito provocado pelo exercício físico?)
+  Have you had chest pain in the last month - (Sentiu dor no peito no ultimo mês?)
+  Have you ever lost consciousness at any time? - (Já perdeu a consciência em alguma ocasião?)
+  Do you have any bone or joint problems - (Tem algum problema osséo ou articular?)
+  Has a doctor ever prescribed blood pressure or heart medication - (Algum médico já prescreveu medicamento pressão arterial ou para o coração?)
+  Is there anything that prevents you from performing physical exercises? - (Tem algo que impeça de executar exercícios físicos?)

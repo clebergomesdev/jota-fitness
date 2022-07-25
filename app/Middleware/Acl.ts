@@ -9,10 +9,8 @@ export default class Acl {
     // code for middleware goes here. ABOVE THE NEXT CALL
     const user = await auth.authenticate()
 
-    console.log(user.email, user.role, allowedRoles)
-
     if (!allowedRoles.includes(user.role)) {
-      return response.unauthorized({ message: 'access denied' })
+      return response.unauthorized({ message: 'Access denied' })
     }
 
     await next()
